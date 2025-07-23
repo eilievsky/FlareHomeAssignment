@@ -141,6 +141,7 @@ Since there is no defined structure of events from source systems (SalesForce an
 
 ### Implementation (Code)
 This repository includes example code for both batch and streaming data processing workflows.
+
 ⚠️ Note: The code is written in pseudocode-style for demonstration purposes. It is not production-ready and should be adapted and hardened before deployment.
 
 [dag_batch_data_process.py](src/airflow/dags/dag_batch_data_process.py)
